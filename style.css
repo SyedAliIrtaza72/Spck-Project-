@@ -1,0 +1,48 @@
+*{
+  margin:0;
+  padding: 0;
+  list-style: none;
+  font-family: 'Orbitron', sans-serif;
+}
+
+body{
+  background-color: #2A2727;
+}
+
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 23px;
+  color:#EB9309;
+
+}
+
+span{
+  background-color: #32302C;
+  margin:2px;
+  text-align: center;
+  padding: 18px 9px;
+  font-size: 27px;
+  box-shadow: 0px 0px 5px ;
+  color:#EB9309;
+  border: 1px solid #EB9309;
+}
+
+p{
+  font-size: 23px;
+}
+
+.container{
+  padding: 72px 5px;
+}
+
+h1{
+  text-align: center;
+  font-size: 29px;
+  margin-top: 90px;
+  color: #EB9309;
+  letter-spacing: 2px;
+  text-shadow: 0px 0px 5px #000,0px 0px 5px #EB9309;
+}
